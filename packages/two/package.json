@@ -1,0 +1,11 @@
+{
+	"name": "@rmenke/npm-multi-releaser-debugging--two",
+	"version": "1.0.2",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"files": [
+		"README.md"
+	]
+}

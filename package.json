@@ -1,0 +1,11 @@
+{
+	"name": "@rmenke/npm-multi-releaser-debugging",
+	"license": "MIT",
+	"private": true,
+	"workspaces": [
+		"./packages/*"
+	],
+	"volta": {
+		"node": "18.13.0"
+	}
+}
